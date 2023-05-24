@@ -1,0 +1,1 @@
+[{"title":"Lollapalozza","description":"Evento general","price":100,"thumbnail":"url","code":1,"stock":50,"id":1},{"title":"Mamalozza","description":"Evento general","price":100,"thumbnail":"url","code":2,"stock":50,"id":2}]
